@@ -1,0 +1,6 @@
+THERE ARE SOME EXTENSIONS YOU HAVE TO INSTALL BEFORE RUNNING THE PROGRAM HERE IS THE LIST...
+speech_recognition
+webbrowser
+pyttsx3
+pocketsphinx
+this project is not integrated with open ai so it can do only some limited tasks...
